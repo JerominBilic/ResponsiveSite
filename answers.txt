@@ -1,0 +1,7 @@
+Can you describe why Responsive Design is important for business?
+It enhances the user experience which leads to repeat traffic which increases sales if the website is designed properly. Now a days people use their phone to browse sites but they might also use their computer and we have to make sure the site works as well in both scenarios. A good responsive design like the apple site creates a vibe that invites the user back to keep browsing their site.
+
+
+
+Which one of the mentioned examples would you like to design? Which tools would you use?
+Probably the GitHub one since its the most eye catching in my opinion. And I would use the fluid grid system, its super useful and easy to implement. 
